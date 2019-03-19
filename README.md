@@ -4,6 +4,7 @@ This is the sample game that is built in the first three Chapter of
 mobile HTML5 Game Development.
 
 It is released under both the GPL and MIT license to do with what you will.
+https://yuyan1991.github.io/release-based-workflow
 
 Playable Version: 
 http://cykod.github.com/AlienInvasion/
